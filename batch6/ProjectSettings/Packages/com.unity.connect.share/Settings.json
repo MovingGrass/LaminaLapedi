@@ -1,0 +1,13 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/6build/Build;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/6build;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/New folder;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/testt;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/devbuildbatch6;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/batch6builds;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/batch6buildd;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/batch6yo;C:/Users/HP PAVILION GAMING/Documents/Data Varick/unitystuff/batch6asset/batch6b;\"}"
+            }
+        ]
+    }
+}
